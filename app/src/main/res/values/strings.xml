@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WlanService</string>
+    <string name="startButton">Service Starten</string>
+    <string name="stoppButton">Service Stoppen</string>
+    <string name="service_name">WlanService</string>
+    <string name="wlan_service_started">WlanService wird ausgeführt</string>
+</resources>
